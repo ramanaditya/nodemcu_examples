@@ -53,7 +53,7 @@ def server(port, max_clients=1):
     print("Server stopped.")
 
 
-# Simple Client:
+# Client:
 def client(host, port):
     print("Connecting to server %s:%d..." % (host, port))
 
