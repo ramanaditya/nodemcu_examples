@@ -25,7 +25,6 @@ Podnet is a communication network provider for IoT devices. IoT developers/compa
 
 [![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/0)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/0)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/1)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/1)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/2)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/2)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/3)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/3)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/4)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/4)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/5)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/5)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/6)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/6)[![](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/images/7)](https://sourcerer.io/fame/ramanaditya/ramanaditya/nodemcu_examples/links/7)
 
-<br>
 
 ## Join Our Community
 
